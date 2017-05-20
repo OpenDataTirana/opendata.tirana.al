@@ -4,22 +4,22 @@
 - [ ] pyetje
 
 **Si është:**
-<!-- Describe how the bug manifests. -->
+<!-- Përshkruani si është situata -->
 
 **Si dua të jetë:**
-<!-- Describe what the behavior would be without the bug. -->
+<!-- Përshkruani se si duhet të jetë nëse nuk do të kishte bug -->
 
 **Hapat për përmirësim:**
-<!-- If you are able to illustrate the bug or feature request with an example, please provide steps to reproduce -->
+<!-- Nëse mundesh mund ta ilustrosh me një shembull, tregoni hapat që duhet të ndërmerren. -->
 
 
 
 **Informacion shtesë:**
-<!-- List any other information that is relevant to your issue. Stack traces, related issues, suggestions on how to fix, Stack Overflow links, forum links, etc. -->
+<!-- Listoni çdo informacion shtesë që është i rëndësishëm për problemin.  -->
 
-**Informacion mbi sistemin ku është gjetur bug:** 
+**Informacion mbi sistemin :** 
 
-<!-- Add information about the system your facing this bug on. If you think this is irrelevant or if it's a UI bug or a feature request, please remove this section -->
+<!-- Shto informacion mbi sistemin ku është gjetur bug.-->
 
 ```
 Sistemi juaj i shfrytëzimit
